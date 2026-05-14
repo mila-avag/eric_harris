@@ -1,0 +1,1808 @@
+{
+  "events": [
+    {
+      "event_id": "f6ad3992d21ced144583c6e0",
+      "title": "Team Standup",
+      "start_datetime": 1762157700.0,
+      "end_datetime": 1762158600.0,
+      "tag": "work",
+      "description": "",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "17bd65b6202eadcaed23dbb6",
+      "title": "1:1 with Denise",
+      "start_datetime": 1762272000.0,
+      "end_datetime": 1762273800.0,
+      "tag": "work",
+      "description": "",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "3edfaaad7d78bb65ea0309db",
+      "title": "Team Standup",
+      "start_datetime": 1762330500.0,
+      "end_datetime": 1762331400.0,
+      "tag": "work",
+      "description": "",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "117a598f3d58758c394de670",
+      "title": "Team Standup",
+      "start_datetime": 1762503300.0,
+      "end_datetime": 1762504200.0,
+      "tag": "work",
+      "description": "(occurrence 3 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "9ce079379cfc9770ef67bbb0",
+      "title": "Team Standup",
+      "start_datetime": 1762762500.0,
+      "end_datetime": 1762763400.0,
+      "tag": "work",
+      "description": "(occurrence 4 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "b7147ed184c3262ccb992256",
+      "title": "Team Standup",
+      "start_datetime": 1762935300.0,
+      "end_datetime": 1762936200.0,
+      "tag": "work",
+      "description": "(occurrence 5 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "8eda7b973f1c326a5a6f8066",
+      "title": "Team Standup",
+      "start_datetime": 1763108100.0,
+      "end_datetime": 1763109000.0,
+      "tag": "work",
+      "description": "(occurrence 6 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "3a00d1e8031fbd02cacd7e7d",
+      "title": "Jaylen's Tournament - Fall Classic",
+      "start_datetime": 1763193600.0,
+      "end_datetime": 1763208000.0,
+      "tag": "personal",
+      "description": "vs Tampa Bay United, Field 3",
+      "location": "Sylvan Lake Park, Sanford, FL",
+      "attendees": []
+    },
+    {
+      "event_id": "845bf4615608a6398440236a",
+      "title": "Magic vs Pacers",
+      "start_datetime": 1763233200.0,
+      "end_datetime": 1763244000.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Amway Center",
+      "attendees": [
+        "Trevor Langston"
+      ]
+    },
+    {
+      "event_id": "d3255c236aa9f711182299f1",
+      "title": "Team Standup",
+      "start_datetime": 1763367300.0,
+      "end_datetime": 1763368200.0,
+      "tag": "work",
+      "description": "(occurrence 7 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "e1078e639ce962d6af8bf42e",
+      "title": "Patient Documentation",
+      "start_datetime": 1763474400.0,
+      "end_datetime": 1763481600.0,
+      "tag": "work",
+      "description": "",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "f175dd37b7aabcdb0bc833e8",
+      "title": "1:1 with Denise",
+      "start_datetime": 1763481600.0,
+      "end_datetime": 1763483400.0,
+      "tag": "work",
+      "description": "",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4139c93b4c6b50f383fb836d",
+      "title": "Team Standup",
+      "start_datetime": 1763540100.0,
+      "end_datetime": 1763541000.0,
+      "tag": "work",
+      "description": "(occurrence 8 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "e945e4a2fb95794a6946e220",
+      "title": "Team Standup",
+      "start_datetime": 1763712900.0,
+      "end_datetime": 1763713800.0,
+      "tag": "work",
+      "description": "(occurrence 9 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "9783c037815876de2f5bdee9",
+      "title": "Team Standup",
+      "start_datetime": 1763972100.0,
+      "end_datetime": 1763973000.0,
+      "tag": "work",
+      "description": "(occurrence 10 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "faa5b0f0c8bd93adcdf1a9db",
+      "title": "Team Standup",
+      "start_datetime": 1764144900.0,
+      "end_datetime": 1764145800.0,
+      "tag": "work",
+      "description": "(occurrence 11 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "e3f7a1c5b9d08d2e46f0a4b8",
+      "title": "Thanksgiving - Vanessa's Family",
+      "start_datetime": 1764234000.0,
+      "end_datetime": 1764262800.0,
+      "tag": "personal",
+      "description": "Bringing sweet potato casserole",
+      "location": "",
+      "attendees": [
+        "Vanessa Crane"
+      ]
+    },
+    {
+      "event_id": "23bb24bc5ff8e080993bdadd",
+      "title": "School early dismissal",
+      "start_datetime": 1764234000.0,
+      "end_datetime": 1764236700.0,
+      "tag": "personal",
+      "description": "Pickup adjusted per district text.\nref:80993bdadd",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "ec27cddddd0681af8ad31286",
+      "title": "Team Standup",
+      "start_datetime": 1764576900.0,
+      "end_datetime": 1764577800.0,
+      "tag": "work",
+      "description": "(occurrence 12 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "d3fa6801cff9231b3db5f840",
+      "title": "1:1 with Denise",
+      "start_datetime": 1764691200.0,
+      "end_datetime": 1764693000.0,
+      "tag": "work",
+      "description": "(occurrence 3 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "834a5f80f1623afa11bc4af9",
+      "title": "Team Standup",
+      "start_datetime": 1764749700.0,
+      "end_datetime": 1764750600.0,
+      "tag": "work",
+      "description": "(occurrence 13 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "77a0c369b0a074d5b3a0f217",
+      "title": "Home exercise plan reviews",
+      "start_datetime": 1764777600.0,
+      "end_datetime": 1764783000.0,
+      "tag": "work",
+      "description": "Return patient HEP callbacks.\nref:d5b3a0f217",
+      "location": "Office",
+      "attendees": []
+    },
+    {
+      "event_id": "92caae34e2ed43c1a5b58b97",
+      "title": "Team Standup",
+      "start_datetime": 1764922500.0,
+      "end_datetime": 1764923400.0,
+      "tag": "work",
+      "description": "(occurrence 14 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "0d9ad403f53b1f1622fc59ff",
+      "title": "Team Standup",
+      "start_datetime": 1765181700.0,
+      "end_datetime": 1765182600.0,
+      "tag": "work",
+      "description": "(occurrence 15 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "3d097e3eceb258a911be635e",
+      "title": "Team Standup",
+      "start_datetime": 1765354500.0,
+      "end_datetime": 1765355400.0,
+      "tag": "work",
+      "description": "(occurrence 16 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "eda0f8a9b7cbaf999af6c5d8",
+      "title": "Patient Documentation",
+      "start_datetime": 1765461600.0,
+      "end_datetime": 1765468800.0,
+      "tag": "work",
+      "description": "",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "72c7f4cad3a09dc3782ecc79",
+      "title": "Team Standup",
+      "start_datetime": 1765527300.0,
+      "end_datetime": 1765528200.0,
+      "tag": "work",
+      "description": "(occurrence 17 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "c1d2e3f4a5b6c7d8e9f0a1b2",
+      "title": "Board Game Night",
+      "start_datetime": 1765648800.0,
+      "end_datetime": 1765663200.0,
+      "tag": "personal",
+      "description": "Hosting neighbors. Settlers, Ticket to Ride, Wingspan",
+      "location": "3847 Timber Creek Drive",
+      "attendees": [
+        "Vanessa Crane",
+        "Rob Hensley",
+        "Dana Kim",
+        "Pete Alvarez"
+      ]
+    },
+    {
+      "event_id": "ea4ba23c9d304f884595c44e",
+      "title": "Magic Game",
+      "start_datetime": 1765652400.0,
+      "end_datetime": 1765663200.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Amway Center",
+      "attendees": [
+        "Trevor Langston"
+      ]
+    },
+    {
+      "event_id": "138a05467154828627f38b2e",
+      "title": "Team Standup",
+      "start_datetime": 1765786500.0,
+      "end_datetime": 1765787400.0,
+      "tag": "work",
+      "description": "(occurrence 18 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "5f3a8f164e707a873d6cbb90",
+      "title": "1:1 with Denise",
+      "start_datetime": 1765900800.0,
+      "end_datetime": 1765902600.0,
+      "tag": "work",
+      "description": "(occurrence 4 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "ee200eab7d36d926416b36b7",
+      "title": "Team Standup",
+      "start_datetime": 1765959300.0,
+      "end_datetime": 1765960200.0,
+      "tag": "work",
+      "description": "(occurrence 19 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "9f04d7dde24273899b880b12",
+      "title": "Team Standup",
+      "start_datetime": 1766132100.0,
+      "end_datetime": 1766133000.0,
+      "tag": "work",
+      "description": "(occurrence 20 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "f4a8b2d6c0e19e3f57a1b5c9",
+      "title": "Winter Break Starts",
+      "start_datetime": 1766158200.0,
+      "end_datetime": 1766160000.0,
+      "tag": "personal",
+      "description": "Maya early dismissal 1:30 PM",
+      "location": "Timber Creek Elementary",
+      "attendees": []
+    },
+    {
+      "event_id": "aab0c54dc980f44823037c56",
+      "title": "Team Standup",
+      "start_datetime": 1766391300.0,
+      "end_datetime": 1766392200.0,
+      "tag": "work",
+      "description": "(occurrence 21 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "a5b9c3e7d1f20a4068b2c6d0",
+      "title": "Christmas Day",
+      "start_datetime": 1766649600.0,
+      "end_datetime": 1766671200.0,
+      "tag": "personal",
+      "description": "",
+      "location": "3847 Timber Creek Drive",
+      "attendees": [
+        "Vanessa Crane"
+      ]
+    },
+    {
+      "event_id": "99adf5f07ef71c962accade9",
+      "title": "Team Standup",
+      "start_datetime": 1766996100.0,
+      "end_datetime": 1766997000.0,
+      "tag": "work",
+      "description": "(occurrence 22 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "38d9993b2c6a60b4ba8ecdc0",
+      "title": "Team huddle",
+      "start_datetime": 1766998800.0,
+      "end_datetime": 1767002400.0,
+      "tag": "work",
+      "description": "15 min operations check-in.\nref:b4ba8ecdc0",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4e6a08cc0b18168bab4fb95f",
+      "title": "1:1 with Denise",
+      "start_datetime": 1767110400.0,
+      "end_datetime": 1767112200.0,
+      "tag": "work",
+      "description": "(occurrence 5 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "e6c64ec851547091e19a8e9a",
+      "title": "Team Standup",
+      "start_datetime": 1767168900.0,
+      "end_datetime": 1767169800.0,
+      "tag": "work",
+      "description": "(occurrence 23 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "1185d750afdf42b6b07748ea",
+      "title": "Team Standup",
+      "start_datetime": 1767600900.0,
+      "end_datetime": 1767601800.0,
+      "tag": "work",
+      "description": "(occurrence 24 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "ad683c679392e19634426adc",
+      "title": "Documentation block",
+      "start_datetime": 1767712500.0,
+      "end_datetime": 1767716100.0,
+      "tag": "work",
+      "description": "Catch up on eval notes.\nref:9634426adc",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "0e482c91224c7e7acba1fe01",
+      "title": "Team Standup",
+      "start_datetime": 1767773700.0,
+      "end_datetime": 1767774600.0,
+      "tag": "work",
+      "description": "(occurrence 25 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "5b03ae6ef8605e4ae7bbab99",
+      "title": "Documentation block",
+      "start_datetime": 1767863700.0,
+      "end_datetime": 1767867300.0,
+      "tag": "work",
+      "description": "Catch up on eval notes.\nref:4ae7bbab99",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "85705e53fd9c0f9bdd93a4ca",
+      "title": "Team Standup",
+      "start_datetime": 1767946500.0,
+      "end_datetime": 1767947400.0,
+      "tag": "work",
+      "description": "(occurrence 26 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "030e3437617e5b58c0ae52fa",
+      "title": "Home exercise plan reviews",
+      "start_datetime": 1767953700.0,
+      "end_datetime": 1767957300.0,
+      "tag": "work",
+      "description": "Return patient HEP callbacks.\nref:58c0ae52fa",
+      "location": "Office",
+      "attendees": []
+    },
+    {
+      "event_id": "a5571425f6a7a2ec4b7497a8",
+      "title": "Work Appreciation Event",
+      "start_datetime": 1768068000.0,
+      "end_datetime": 1768082400.0,
+      "tag": "work",
+      "description": "",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "c7287129c30c790a4da00683",
+      "title": "Jaylen's Tournament - Winter Cup",
+      "start_datetime": 1768122000.0,
+      "end_datetime": 1768140000.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Kissimmee SportsPlex, Kissimmee, FL",
+      "attendees": []
+    },
+    {
+      "event_id": "36a4f3067540afcd96e5d4bf",
+      "title": "Team Standup",
+      "start_datetime": 1768205700.0,
+      "end_datetime": 1768206600.0,
+      "tag": "work",
+      "description": "(occurrence 27 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "d6f7a8b9c0d1e2f3a4b5c6d7",
+      "title": "Tesla Service - Tire Rotation",
+      "start_datetime": 1768294800.0,
+      "end_datetime": 1768298400.0,
+      "tag": "personal",
+      "description": "Tire rotation + inspection",
+      "location": "Tesla Service Center, 7720 S Orange Blossom Trail, Orlando, FL 32809",
+      "attendees": []
+    },
+    {
+      "event_id": "27b34683a2ef01f806ad911b",
+      "title": "1:1 with Denise",
+      "start_datetime": 1768320000.0,
+      "end_datetime": 1768321800.0,
+      "tag": "work",
+      "description": "(occurrence 6 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "fe822193544d6d32fd823fc9",
+      "title": "Documentation block",
+      "start_datetime": 1768322700.0,
+      "end_datetime": 1768327200.0,
+      "tag": "work",
+      "description": "Catch up on eval notes.\nref:32fd823fc9",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "82b101356865ba95dd600a84",
+      "title": "Team Standup",
+      "start_datetime": 1768378500.0,
+      "end_datetime": 1768379400.0,
+      "tag": "work",
+      "description": "(occurrence 28 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "ca1b2c3d5e6f0a81920a1b2c",
+      "title": "Omar - Quarterly Check-in",
+      "start_datetime": 1768471200.0,
+      "end_datetime": 1768474800.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Brightpath Financial",
+      "attendees": [
+        "Omar Reyes"
+      ]
+    },
+    {
+      "event_id": "3f0c99d15de82422e7ce3efb",
+      "title": "Patient Documentation",
+      "start_datetime": 1768485600.0,
+      "end_datetime": 1768492800.0,
+      "tag": "work",
+      "description": "(occurrence 3 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "90989e72252cc7bf1c3464f9",
+      "title": "Grocery run",
+      "start_datetime": 1768489200.0,
+      "end_datetime": 1768491900.0,
+      "tag": "personal",
+      "description": "Publix run after work.\nref:bf1c3464f9",
+      "location": "Publix",
+      "attendees": []
+    },
+    {
+      "event_id": "15bbf9d1b0dd233de2cb7d2d",
+      "title": "Team Standup",
+      "start_datetime": 1768551300.0,
+      "end_datetime": 1768552200.0,
+      "tag": "work",
+      "description": "(occurrence 29 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "2f9afd18d43ead51bf2a0da3",
+      "title": "John Legend Concert",
+      "start_datetime": 1768680000.0,
+      "end_datetime": 1768690800.0,
+      "tag": "personal",
+      "description": "Birthday gift for Vanessa",
+      "location": "Dr. Phillips Center for the Performing Arts",
+      "attendees": [
+        "Vanessa Crane"
+      ]
+    },
+    {
+      "event_id": "f6071829305a6ccda71f5a6b",
+      "title": "Vanessa's Birthday Dinner",
+      "start_datetime": 1768761000.0,
+      "end_datetime": 1768768200.0,
+      "tag": "personal",
+      "description": "Bonefish Grill, Waterford Lakes",
+      "location": "Bonefish Grill, 817 N Alafaya Trail, Orlando, FL 32828",
+      "attendees": [
+        "Vanessa Crane"
+      ]
+    },
+    {
+      "event_id": "34113943416bcce7891680ad",
+      "title": "Team Standup",
+      "start_datetime": 1768810500.0,
+      "end_datetime": 1768811400.0,
+      "tag": "work",
+      "description": "(occurrence 30 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "7c86e1e9e13a495d65f4299d",
+      "title": "Team Standup",
+      "start_datetime": 1768983300.0,
+      "end_datetime": 1768984200.0,
+      "tag": "work",
+      "description": "(occurrence 31 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "6d2dc26351c2785df2d77a17",
+      "title": "Team Standup",
+      "start_datetime": 1769156100.0,
+      "end_datetime": 1769157000.0,
+      "tag": "work",
+      "description": "(occurrence 32 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4dc4ffce5ec214b9ac3d9b99",
+      "title": "Biscuit - Vet (Banfield)",
+      "start_datetime": 1769162400.0,
+      "end_datetime": 1769166000.0,
+      "tag": "personal",
+      "description": "Annual vaccinations. Bring carrier.",
+      "location": "Banfield Pet Hospital",
+      "attendees": []
+    },
+    {
+      "event_id": "17a26086de6fdf782d11abe0",
+      "title": "Team Standup",
+      "start_datetime": 1769415300.0,
+      "end_datetime": 1769416200.0,
+      "tag": "work",
+      "description": "(occurrence 33 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "e4709040811f8839450c9189",
+      "title": "1:1 with Denise",
+      "start_datetime": 1769529600.0,
+      "end_datetime": 1769531400.0,
+      "tag": "work",
+      "description": "(occurrence 7 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "93bbba3bf39dd4853e267e2c",
+      "title": "Team Standup",
+      "start_datetime": 1769588100.0,
+      "end_datetime": 1769589000.0,
+      "tag": "work",
+      "description": "(occurrence 34 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4704c2fe3e3383aaffd1642f",
+      "title": "Patient Documentation",
+      "start_datetime": 1769695200.0,
+      "end_datetime": 1769702400.0,
+      "tag": "work",
+      "description": "(occurrence 4 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "f1dad2cdafa8bca59c834c79",
+      "title": "Team Standup",
+      "start_datetime": 1769760900.0,
+      "end_datetime": 1769761800.0,
+      "tag": "work",
+      "description": "(occurrence 35 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4ad31f0dbed104514cca212f",
+      "title": "Team Standup",
+      "start_datetime": 1770020100.0,
+      "end_datetime": 1770021000.0,
+      "tag": "work",
+      "description": "(occurrence 36 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "8338aabf551e2b38b56014bc",
+      "title": "Team Standup",
+      "start_datetime": 1770192900.0,
+      "end_datetime": 1770193800.0,
+      "tag": "work",
+      "description": "(occurrence 37 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "b29125fb754f92a3e33ad3e8",
+      "title": "Maya - Musical Rehearsal",
+      "start_datetime": 1770219000.0,
+      "end_datetime": 1770224400.0,
+      "tag": "personal",
+      "description": "Timber Creek Elementary spring musical",
+      "location": "Timber Creek Elementary",
+      "attendees": []
+    },
+    {
+      "event_id": "fddef74bc380b378cd3b27e1",
+      "title": "Team Standup",
+      "start_datetime": 1770365700.0,
+      "end_datetime": 1770366600.0,
+      "tag": "work",
+      "description": "(occurrence 38 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "afa480466bc218a54b19a339",
+      "title": "Team Standup",
+      "start_datetime": 1770624900.0,
+      "end_datetime": 1770625800.0,
+      "tag": "work",
+      "description": "(occurrence 39 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "cdbf767b2a93930c9df3bba4",
+      "title": "Home exercise plan reviews",
+      "start_datetime": 1770720300.0,
+      "end_datetime": 1770723900.0,
+      "tag": "work",
+      "description": "Return patient HEP callbacks.\nref:0c9df3bba4",
+      "location": "Office",
+      "attendees": []
+    },
+    {
+      "event_id": "ed9bf9712f9c3aa72ef467fc",
+      "title": "1:1 with Denise",
+      "start_datetime": 1770739200.0,
+      "end_datetime": 1770741000.0,
+      "tag": "work",
+      "description": "(occurrence 8 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "c3b50f34f26861b3190c965a",
+      "title": "Team Standup",
+      "start_datetime": 1770797700.0,
+      "end_datetime": 1770798600.0,
+      "tag": "work",
+      "description": "(occurrence 40 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "704267db934ac5c3bb7a9819",
+      "title": "Maya - Musical Rehearsal",
+      "start_datetime": 1770823800.0,
+      "end_datetime": 1770829200.0,
+      "tag": "personal",
+      "description": "Timber Creek Elementary spring musical",
+      "location": "Timber Creek Elementary",
+      "attendees": []
+    },
+    {
+      "event_id": "f7a28b3c94d1e5f6087a9b0c",
+      "title": "Garden Committee Meeting",
+      "start_datetime": 1770904800.0,
+      "end_datetime": 1770910200.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Orlando Community Garden Pavilion",
+      "attendees": [
+        "Trevor Langston"
+      ]
+    },
+    {
+      "event_id": "682a8ba7c9970eb07e235774",
+      "title": "Patient Documentation",
+      "start_datetime": 1770904800.0,
+      "end_datetime": 1770912000.0,
+      "tag": "work",
+      "description": "(occurrence 5 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "40b8b3000b4ddccc9e0c2772",
+      "title": "Team Standup",
+      "start_datetime": 1770970500.0,
+      "end_datetime": 1770971400.0,
+      "tag": "work",
+      "description": "(occurrence 41 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "7447982c8c312a1756811b25",
+      "title": "Jaylen's Tournament - Presidents Day",
+      "start_datetime": 1771142400.0,
+      "end_datetime": 1771160400.0,
+      "tag": "personal",
+      "description": "Carpool with Tony B",
+      "location": "Chain of Lakes Park, Titusville, FL",
+      "attendees": []
+    },
+    {
+      "event_id": "bd076ba299b8ad89225e223f",
+      "title": "Team Standup",
+      "start_datetime": 1771229700.0,
+      "end_datetime": 1771230600.0,
+      "tag": "work",
+      "description": "(occurrence 42 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "37b58d0c8701a90651726a78",
+      "title": "Team Standup",
+      "start_datetime": 1771402500.0,
+      "end_datetime": 1771403400.0,
+      "tag": "work",
+      "description": "(occurrence 43 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "1a9e4961ac7a36c1069db5e7",
+      "title": "School early dismissal",
+      "start_datetime": 1771405200.0,
+      "end_datetime": 1771409700.0,
+      "tag": "personal",
+      "description": "Pickup adjusted per district text.\nref:c1069db5e7",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "ccb7a2c7d172f30341f66069",
+      "title": "Maya - Musical Rehearsal",
+      "start_datetime": 1771428600.0,
+      "end_datetime": 1771434000.0,
+      "tag": "personal",
+      "description": "Timber Creek Elementary spring musical\n(occurrence 3 of 5)",
+      "location": "Timber Creek Elementary",
+      "attendees": []
+    },
+    {
+      "event_id": "7941fb6d36764834e89f3b77",
+      "title": "Team Standup",
+      "start_datetime": 1771575300.0,
+      "end_datetime": 1771576200.0,
+      "tag": "work",
+      "description": "(occurrence 44 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "d2e3f4a5b6c7d8e9f0a1b2c3",
+      "title": "Board Game Night",
+      "start_datetime": 1771696800.0,
+      "end_datetime": 1771711200.0,
+      "tag": "personal",
+      "description": "February game night with neighbors",
+      "location": "3847 Timber Creek Drive",
+      "attendees": [
+        "Vanessa Crane",
+        "Rob Hensley",
+        "Dana Kim",
+        "Pete Alvarez"
+      ]
+    },
+    {
+      "event_id": "495a92036ff3eb7e96da3997",
+      "title": "Magic vs Bucks",
+      "start_datetime": 1771700400.0,
+      "end_datetime": 1771711200.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Amway Center",
+      "attendees": [
+        "Trevor Langston"
+      ]
+    },
+    {
+      "event_id": "cbd9a459224ca3c7054c59a1",
+      "title": "Team Standup",
+      "start_datetime": 1771834500.0,
+      "end_datetime": 1771835400.0,
+      "tag": "work",
+      "description": "(occurrence 45 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "d47d02ed84dd8cdb70aa08a4",
+      "title": "1:1 with Denise",
+      "start_datetime": 1771948800.0,
+      "end_datetime": 1771950600.0,
+      "tag": "work",
+      "description": "(occurrence 9 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "261ea91f094a4967227ca051",
+      "title": "Team Standup",
+      "start_datetime": 1772007300.0,
+      "end_datetime": 1772008200.0,
+      "tag": "work",
+      "description": "(occurrence 46 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "862efd44c4c6a346740ff745",
+      "title": "Maya - Musical Rehearsal",
+      "start_datetime": 1772033400.0,
+      "end_datetime": 1772038800.0,
+      "tag": "personal",
+      "description": "Timber Creek Elementary spring musical\n(occurrence 4 of 5)",
+      "location": "Timber Creek Elementary",
+      "attendees": []
+    },
+    {
+      "event_id": "95963275beeffcd8b7dd8d0c",
+      "title": "Patient Documentation",
+      "start_datetime": 1772114400.0,
+      "end_datetime": 1772121600.0,
+      "tag": "work",
+      "description": "(occurrence 6 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "88a9a3acc397f6d88a727f3e",
+      "title": "Team Standup",
+      "start_datetime": 1772180100.0,
+      "end_datetime": 1772181000.0,
+      "tag": "work",
+      "description": "(occurrence 47 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "808a44074e85fda9339fd50b",
+      "title": "Car charging window",
+      "start_datetime": 1772207100.0,
+      "end_datetime": 1772210700.0,
+      "tag": "personal",
+      "description": "Top off before weekend trip.\nref:a9339fd50b",
+      "location": "Supercharger",
+      "attendees": []
+    },
+    {
+      "event_id": "a2b3c4d5e6f708192a3b4c5d",
+      "title": "New Volunteer Orientation",
+      "start_datetime": 1772269200.0,
+      "end_datetime": 1772276400.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Orlando Community Garden",
+      "attendees": []
+    },
+    {
+      "event_id": "d3faf7ecee9de89abfe50664",
+      "title": "Team Standup",
+      "start_datetime": 1772439300.0,
+      "end_datetime": 1772440200.0,
+      "tag": "work",
+      "description": "(occurrence 48 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "998ca879f4895efe7a89bf6f",
+      "title": "Team Standup",
+      "start_datetime": 1772612100.0,
+      "end_datetime": 1772613000.0,
+      "tag": "work",
+      "description": "(occurrence 49 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "b8f9a0b1c2d3e4657c8d9e0f",
+      "title": "Dr. Patel - Annual Physical",
+      "start_datetime": 1772613000.0,
+      "end_datetime": 1772616600.0,
+      "tag": "personal",
+      "description": "Fasting bloodwork",
+      "location": "Orlando Health Physician Associates",
+      "attendees": []
+    },
+    {
+      "event_id": "c8bf4b0a8521168167c1f431",
+      "title": "Maya - Musical Rehearsal",
+      "start_datetime": 1772638200.0,
+      "end_datetime": 1772643600.0,
+      "tag": "personal",
+      "description": "Timber Creek Elementary spring musical\n(occurrence 5 of 5)",
+      "location": "Timber Creek Elementary",
+      "attendees": []
+    },
+    {
+      "event_id": "08b39c4da5e2f60719b0ac1d",
+      "title": "Garden Committee Meeting",
+      "start_datetime": 1772731800.0,
+      "end_datetime": 1772737200.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Orlando Community Garden Pavilion",
+      "attendees": [
+        "Trevor Langston"
+      ]
+    },
+    {
+      "event_id": "0257a1bef8c274a64ff82c5e",
+      "title": "Team Standup",
+      "start_datetime": 1772784900.0,
+      "end_datetime": 1772785800.0,
+      "tag": "work",
+      "description": "(occurrence 50 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "bd9f69d2809c5d72093d4e0e",
+      "title": "Maya's Musical - Opening Night",
+      "start_datetime": 1772910000.0,
+      "end_datetime": 1772917200.0,
+      "tag": "personal",
+      "description": "Timber Creek Elementary spring musical",
+      "location": "Timber Creek Elementary",
+      "attendees": [
+        "Vanessa Crane"
+      ]
+    },
+    {
+      "event_id": "a2e3d5e70819203142536475",
+      "title": "Tax prep - organize documents",
+      "start_datetime": 1772964000.0,
+      "end_datetime": 1772971200.0,
+      "tag": "personal",
+      "description": "Gather W-2, 1099, 1098-E. Start TurboTax.",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "a0480fe9d1a16a7f123ecc2e",
+      "title": "Maya's Musical - Saturday Matinee",
+      "start_datetime": 1772978400.0,
+      "end_datetime": 1772985600.0,
+      "tag": "personal",
+      "description": "Timber Creek Elementary spring musical",
+      "location": "Timber Creek Elementary",
+      "attendees": [
+        "Vanessa Crane"
+      ]
+    },
+    {
+      "event_id": "5fbfbf5d5a92a3cd399e73fd",
+      "title": "Team Standup",
+      "start_datetime": 1773044100.0,
+      "end_datetime": 1773045000.0,
+      "tag": "work",
+      "description": "(occurrence 51 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "e856357a0dc41d5e45245ed0",
+      "title": "1:1 with Denise",
+      "start_datetime": 1773158400.0,
+      "end_datetime": 1773160200.0,
+      "tag": "work",
+      "description": "(occurrence 10 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "b97a8f45c579c3785cc8fa11",
+      "title": "Team Standup",
+      "start_datetime": 1773216900.0,
+      "end_datetime": 1773217800.0,
+      "tag": "work",
+      "description": "(occurrence 52 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "491f6cf01f7870851fa36c90",
+      "title": "Home exercise plan reviews",
+      "start_datetime": 1773253800.0,
+      "end_datetime": 1773257400.0,
+      "tag": "work",
+      "description": "Return patient HEP callbacks.\nref:851fa36c90",
+      "location": "Office",
+      "attendees": []
+    },
+    {
+      "event_id": "254a628e86204c6e4e80b179",
+      "title": "Personal Appointment",
+      "start_datetime": 1773322200.0,
+      "end_datetime": 1773324000.0,
+      "tag": "personal",
+      "description": "",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "ff9b02792c20edea93b3d4ec",
+      "title": "Team Standup",
+      "start_datetime": 1773389700.0,
+      "end_datetime": 1773390600.0,
+      "tag": "work",
+      "description": "(occurrence 53 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4abc8d929be6ba6fb5afa1de",
+      "title": "Lunch coverage swap",
+      "start_datetime": 1773400500.0,
+      "end_datetime": 1773403200.0,
+      "tag": "work",
+      "description": "Confirm switch at front desk.\nref:6fb5afa1de",
+      "location": "Front desk",
+      "attendees": []
+    },
+    {
+      "event_id": "dc29c863fa8bfecba273da20",
+      "title": "Yard work - mulching and flower beds",
+      "start_datetime": 1773565200.0,
+      "end_datetime": 1773579600.0,
+      "tag": "personal",
+      "description": "Pick up Home Depot order, mulch front and side beds, plant annuals",
+      "location": "3847 Timber Creek Drive",
+      "attendees": []
+    },
+    {
+      "event_id": "bd1bebf4e86e5618ec739573",
+      "title": "Team Standup",
+      "start_datetime": 1773648900.0,
+      "end_datetime": 1773649800.0,
+      "tag": "work",
+      "description": "(occurrence 54 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "c4a7e2d8f9b31605a8c0d1e7",
+      "title": "Patient Documentation",
+      "start_datetime": 1773756000.0,
+      "end_datetime": 1773763200.0,
+      "tag": "work",
+      "description": "(occurrence 7 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "71bd8bc2ee4e2cd5f4697ff6",
+      "title": "Team Standup",
+      "start_datetime": 1773821700.0,
+      "end_datetime": 1773822600.0,
+      "tag": "work",
+      "description": "(occurrence 55 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "0a25eb3729025d4dad1553eb",
+      "title": "Team Standup",
+      "start_datetime": 1773994500.0,
+      "end_datetime": 1773995400.0,
+      "tag": "work",
+      "description": "(occurrence 56 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "b3c4d5e6f708192a3b4c5d6e",
+      "title": "Community Workday",
+      "start_datetime": 1774087200.0,
+      "end_datetime": 1774098000.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Orlando Community Garden",
+      "attendees": []
+    },
+    {
+      "event_id": "69ee815e7cf56005030c0c3b",
+      "title": "Team Standup",
+      "start_datetime": 1774253700.0,
+      "end_datetime": 1774254600.0,
+      "tag": "work",
+      "description": "(occurrence 57 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4f5241de5b969a9048edaa10",
+      "title": "1:1 with Denise",
+      "start_datetime": 1774368000.0,
+      "end_datetime": 1774369800.0,
+      "tag": "work",
+      "description": "(occurrence 11 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "2c7421f88ae2408da427ad9c",
+      "title": "Team Standup",
+      "start_datetime": 1774426500.0,
+      "end_datetime": 1774427400.0,
+      "tag": "work",
+      "description": "(occurrence 58 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "19c4ad5eb6f30728a0c1bd2e",
+      "title": "Patient Documentation",
+      "start_datetime": 1774519200.0,
+      "end_datetime": 1774526400.0,
+      "tag": "work",
+      "description": "(occurrence 8 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "8149245fbdcd7b347bf9cf6d",
+      "title": "Mentor session - new grad",
+      "start_datetime": 1774519200.0,
+      "end_datetime": 1774523700.0,
+      "tag": "work",
+      "description": "Shadow block with DPT resident.\nref:347bf9cf6d",
+      "location": "Gym floor",
+      "attendees": []
+    },
+    {
+      "event_id": "b7dac0b556ba8efd3e8d92f1",
+      "title": "Team Standup",
+      "start_datetime": 1774599300.0,
+      "end_datetime": 1774600200.0,
+      "tag": "work",
+      "description": "(occurrence 59 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "8cba61deccbf11ff135e6329",
+      "title": "Team Standup",
+      "start_datetime": 1774858500.0,
+      "end_datetime": 1774859400.0,
+      "tag": "work",
+      "description": "(occurrence 60 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "af249f516f4eb28770bec9b8",
+      "title": "Team Standup",
+      "start_datetime": 1775031300.0,
+      "end_datetime": 1775032200.0,
+      "tag": "work",
+      "description": "(occurrence 61 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "f948edc079de1cb3742a8998",
+      "title": "Car charging window",
+      "start_datetime": 1775038500.0,
+      "end_datetime": 1775043900.0,
+      "tag": "personal",
+      "description": "Top off before weekend trip.\nref:b3742a8998",
+      "location": "Supercharger",
+      "attendees": []
+    },
+    {
+      "event_id": "9bdd8940d1e081a3306c7853",
+      "title": "Team Standup",
+      "start_datetime": 1775204100.0,
+      "end_datetime": 1775205000.0,
+      "tag": "work",
+      "description": "(occurrence 62 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "f39892359958375bcd7fbf2c",
+      "title": "Team Standup",
+      "start_datetime": 1775463300.0,
+      "end_datetime": 1775464200.0,
+      "tag": "work",
+      "description": "(occurrence 63 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "5401effc88bb446d1b3bf22d",
+      "title": "1:1 with Denise",
+      "start_datetime": 1775577600.0,
+      "end_datetime": 1775579400.0,
+      "tag": "work",
+      "description": "(occurrence 12 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "3b110f2f05d35aa23ff10e45",
+      "title": "Team Standup",
+      "start_datetime": 1775636100.0,
+      "end_datetime": 1775637000.0,
+      "tag": "work",
+      "description": "(occurrence 64 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "be6eba507a835da70c8dca9b",
+      "title": "Patient Documentation",
+      "start_datetime": 1775743200.0,
+      "end_datetime": 1775750400.0,
+      "tag": "work",
+      "description": "(occurrence 9 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "e28328bbb7d084c1ed224166",
+      "title": "Team Standup",
+      "start_datetime": 1775808900.0,
+      "end_datetime": 1775809800.0,
+      "tag": "work",
+      "description": "(occurrence 65 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "c7b8f178a0f86c0de27d0308",
+      "title": "Check fishing budget",
+      "start_datetime": 1775854800.0,
+      "end_datetime": 1775856600.0,
+      "tag": "personal",
+      "description": "",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "b3f4e6f80920314253647586",
+      "title": "File taxes",
+      "start_datetime": 1775934000.0,
+      "end_datetime": 1775941200.0,
+      "tag": "personal",
+      "description": "Finish and e-file federal return in TurboTax",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "f4b8c9d0e1f2031425364758",
+      "title": "Neighborhood Spring Cookout",
+      "start_datetime": 1776009600.0,
+      "end_datetime": 1776024000.0,
+      "tag": "personal",
+      "description": "Timber Creek cookout. Rob grilling.",
+      "location": "3847 Timber Creek Drive",
+      "attendees": [
+        "Vanessa Crane",
+        "Rob Hensley",
+        "Dana Kim",
+        "Pete Alvarez"
+      ]
+    },
+    {
+      "event_id": "5b48b1bdabbb1d32ad1c59c9",
+      "title": "Team Standup",
+      "start_datetime": 1776068100.0,
+      "end_datetime": 1776069000.0,
+      "tag": "work",
+      "description": "(occurrence 66 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "f2fa5c22323a4ec73a99b127",
+      "title": "Team Standup",
+      "start_datetime": 1776240900.0,
+      "end_datetime": 1776241800.0,
+      "tag": "work",
+      "description": "(occurrence 67 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "8fffb8f10934788d9a61de92",
+      "title": "Lunch coverage swap",
+      "start_datetime": 1776331800.0,
+      "end_datetime": 1776337200.0,
+      "tag": "work",
+      "description": "Confirm switch at front desk.\nref:8d9a61de92",
+      "location": "Front desk",
+      "attendees": []
+    },
+    {
+      "event_id": "cb2c3d4e6f700b92a03b2c3d",
+      "title": "Omar - Quarterly Check-in",
+      "start_datetime": 1776333600.0,
+      "end_datetime": 1776337200.0,
+      "tag": "personal",
+      "description": "",
+      "location": "Brightpath Financial",
+      "attendees": [
+        "Omar Reyes"
+      ]
+    },
+    {
+      "event_id": "8f0a5af63164188a69fa9935",
+      "title": "Team Standup",
+      "start_datetime": 1776413700.0,
+      "end_datetime": 1776414600.0,
+      "tag": "work",
+      "description": "(occurrence 68 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "dc3f45520b1a523d541b7d71",
+      "title": "Home exercise plan reviews",
+      "start_datetime": 1776450600.0,
+      "end_datetime": 1776456000.0,
+      "tag": "work",
+      "description": "Return patient HEP callbacks.\nref:3d541b7d71",
+      "location": "Office",
+      "attendees": []
+    },
+    {
+      "event_id": "cae125260eba72260dd76ead",
+      "title": "Team Standup",
+      "start_datetime": 1776672900.0,
+      "end_datetime": 1776673800.0,
+      "tag": "work",
+      "description": "(occurrence 69 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "ae6b0db9baa5ef725f5aab16",
+      "title": "1:1 with Denise",
+      "start_datetime": 1776787200.0,
+      "end_datetime": 1776789000.0,
+      "tag": "work",
+      "description": "(occurrence 13 of 13)",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "b972678033ee1109cd3e7557",
+      "title": "Team Standup",
+      "start_datetime": 1776845700.0,
+      "end_datetime": 1776846600.0,
+      "tag": "work",
+      "description": "(occurrence 70 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "97ae1962905dd46deb7a6006",
+      "title": "Patient Documentation",
+      "start_datetime": 1776952800.0,
+      "end_datetime": 1776960000.0,
+      "tag": "work",
+      "description": "(occurrence 10 of 10)",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "0d464cfd09939518f48d8cc7",
+      "title": "Team Standup",
+      "start_datetime": 1777018500.0,
+      "end_datetime": 1777019400.0,
+      "tag": "work",
+      "description": "(occurrence 71 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "694ec7424de4234a04c9757b",
+      "title": "Team Standup",
+      "start_datetime": 1777277700.0,
+      "end_datetime": 1777278600.0,
+      "tag": "work",
+      "description": "(occurrence 72 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "bc330585480d917a2449aa2a",
+      "title": "Team Standup",
+      "start_datetime": 1777450500.0,
+      "end_datetime": 1777451400.0,
+      "tag": "work",
+      "description": "(occurrence 73 of 73)",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "4128ecbb9bbba8ace858847b",
+      "title": "Timber Creek Spring Block Party",
+      "start_datetime": 1777820400.0,
+      "end_datetime": 1777834800.0,
+      "tag": "personal",
+      "description": "Bring folding chairs and the cornhole set. Rob is grilling again.",
+      "location": "Timber Creek Drive cul-de-sac",
+      "attendees": [
+        "Vanessa Crane",
+        "Rob Hensley",
+        "Dana Kim",
+        "Pete Alvarez"
+      ]
+    },
+    {
+      "event_id": "6b0eef4b5da53dba77c3f844",
+      "title": "Documentation block",
+      "start_datetime": 1777993200.0,
+      "end_datetime": 1777998600.0,
+      "tag": "work",
+      "description": "Catch up on eval notes.\nref:ba77c3f844",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "a12c65775741ad05636e69d9",
+      "title": "1:1 with Denise - Airtable Review",
+      "start_datetime": 1778000400.0,
+      "end_datetime": 1778004000.0,
+      "tag": "work",
+      "description": "Screen share of documentation workflow. She wants to use mine as a benchmark.",
+      "location": "Denise's office",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    {
+      "event_id": "f1029cb502d576987f38baf3",
+      "title": "Grocery run",
+      "start_datetime": 1779216300.0,
+      "end_datetime": 1779219900.0,
+      "tag": "personal",
+      "description": "Publix run after work.\nref:987f38baf3",
+      "location": "Publix",
+      "attendees": []
+    },
+    {
+      "event_id": "e00393d696dc9659036db338",
+      "title": "Grocery run",
+      "start_datetime": 1779708600.0,
+      "end_datetime": 1779713100.0,
+      "tag": "personal",
+      "description": "Publix run after work.\nref:59036db338",
+      "location": "Publix",
+      "attendees": []
+    },
+    {
+      "event_id": "7327c742b8f5d9ba4e3667bc",
+      "title": "School early dismissal",
+      "start_datetime": 1781000100.0,
+      "end_datetime": 1781004600.0,
+      "tag": "personal",
+      "description": "Pickup adjusted per district text.\nref:ba4e3667bc",
+      "location": "",
+      "attendees": []
+    },
+    {
+      "event_id": "d5e6f708a920b1c2d3e4f5a6",
+      "title": "Fishing - Jo's kids?",
+      "start_datetime": 1781337600.0,
+      "end_datetime": 1781362800.0,
+      "tag": "personal",
+      "description": "",
+      "location": "",
+      "attendees": [
+        "Joanna Pruitt"
+      ]
+    },
+    {
+      "event_id": "a7466ed8f086086d2638b7b3",
+      "title": "Documentation block",
+      "start_datetime": 1781514900.0,
+      "end_datetime": 1781519400.0,
+      "tag": "work",
+      "description": "Catch up on eval notes.\nref:6d2638b7b3",
+      "location": "Break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    }
+  ]
+}

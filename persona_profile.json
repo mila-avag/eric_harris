@@ -1,0 +1,2343 @@
+{
+  "persona": {
+    "name": "Eric Harris",
+    "age": 45,
+    "age_bracket": "36-50",
+    "job_title": "Physical Therapist",
+    "job_industry": "Healthcare",
+    "communication_style": "moderate",
+    "tech_savviness": "moderate",
+    "tone": "moderate",
+    "location": {
+      "city": "Orlando",
+      "state": "FL",
+      "address": "3847 Timber Creek Drive",
+      "zip": "32828"
+    },
+    "timezone": "America/New_York"
+  },
+  "emails": {
+    "work": "eric.harris@lakeviewpt.com",
+    "personal": "eharris84@gmail.com"
+  },
+  "employer": {
+    "name": "Lakeview Physical Therapy & Rehabilitation",
+    "address": "7200 Lake Underhill Rd, Suite 105, Orlando, FL 32822",
+    "hours": {
+      "start": "08:00",
+      "end": "17:00",
+      "wfh_day": null
+    },
+    "role": "Physical Therapist",
+    "boss": "Denise Okafor"
+  },
+  "contacts": [
+    {
+      "name": "Vanessa Crane",
+      "age": 43,
+      "email": "vanessa.crane@gmail.com",
+      "phone": "(407) 555-0182",
+      "role": "partner",
+      "formality": "casual",
+      "is_organization": false,
+      "knows": [
+        "They carry student loan and medical debt",
+        "Eric likes going to Magic games and has hobbies that cost money",
+        "Emergency fund is tight but not how tight",
+        "Eric is on the community garden committee",
+        "Eric is introverted and sometimes cancels social plans"
+      ],
+      "does_not_know": [
+        "Real total entertainment and sports spending",
+        "Actual savings balance is ~$1,200 not ~$4,000",
+        "Eric has clinical social anxiety, not just introversion",
+        "Eric is quietly exploring other careers"
+      ]
+    },
+    {
+      "name": "Jaylen Harris",
+      "age": 12,
+      "email": null,
+      "phone": null,
+      "role": "son",
+      "formality": "casual",
+      "is_organization": false,
+      "knows": [
+        "Family member, lives in the home"
+      ],
+      "does_not_know": [
+        "Financial stress details",
+        "Social anxiety diagnosis"
+      ]
+    },
+    {
+      "name": "Maya Harris",
+      "age": 9,
+      "email": null,
+      "phone": null,
+      "role": "daughter",
+      "formality": "casual",
+      "is_organization": false,
+      "knows": [
+        "Family member, lives in the home"
+      ],
+      "does_not_know": [
+        "Financial stress details",
+        "Social anxiety diagnosis"
+      ]
+    },
+    {
+      "name": "Joanna Pruitt",
+      "age": 38,
+      "email": "joanna.pruitt@yahoo.com",
+      "phone": "(321) 555-0134",
+      "role": "sister",
+      "formality": "terse",
+      "is_organization": false,
+      "knows": [
+        "Eric is a physical therapist and good at his job",
+        "Eric knits and cooks",
+        "Eric has two kids and a partner",
+        "Eric drives a Tesla"
+      ],
+      "does_not_know": [
+        "Eric is in significant debt \u2014 student loans, medical debt, nearly empty savings",
+        "Eric has social anxiety",
+        "Eric is considering a career change",
+        "The Tesla payment is a financial burden"
+      ]
+    },
+    {
+      "name": "Trevor Langston",
+      "age": 45,
+      "email": "trevor.langston@outlook.com",
+      "phone": "(407) 555-0247",
+      "role": "college-friend",
+      "formality": "casual",
+      "is_organization": false,
+      "knows": [
+        "Eric goes to Magic games regularly",
+        "Eric is on the community garden committee",
+        "Eric is a physical therapist who is great with people",
+        "Eric's family has some financial stress (vaguely)"
+      ],
+      "does_not_know": [
+        "Eric has social anxiety and community events are genuinely difficult",
+        "Eric does committee work during clinic hours",
+        "Full extent of Eric's financial problems",
+        "Eric is considering leaving physical therapy"
+      ]
+    },
+    {
+      "name": "Denise Okafor",
+      "age": 52,
+      "email": "denise.okafor@lakeviewpt.com",
+      "phone": "(407) 555-0391",
+      "role": "boss",
+      "formality": "formal",
+      "is_organization": false,
+      "knows": [
+        "Eric is excellent at patient communication and documentation",
+        "Eric stays late to update notes",
+        "Eric is involved in some community work"
+      ],
+      "does_not_know": [
+        "Eric has social anxiety",
+        "Eric does committee work during clinic hours using work tools",
+        "Eric is exploring non-clinical roles and may leave",
+        "Documentation blocks on calendar are sometimes committee planning"
+      ]
+    },
+    {
+      "name": "Omar Reyes",
+      "age": 40,
+      "email": "omar.reyes@brightpathfinancial.com",
+      "phone": "(407) 555-0468",
+      "role": "financial-advisor",
+      "formality": "casual-professional",
+      "is_organization": false,
+      "knows": [
+        "Eric and Vanessa's combined income, student loan balance, and medical debt totals",
+        "Savings account balance is around $1,200",
+        "Eric's retirement savings are significantly behind for age 45",
+        "Eric struggles to prioritize saving over immediate family spending"
+      ],
+      "does_not_know": [
+        "Eric tells Vanessa the savings balance is ~$4,000",
+        "Full extent of entertainment spending not in planning sessions",
+        "Eric is considering a career change"
+      ]
+    },
+    {
+      "name": "Rachel Moran",
+      "age": null,
+      "email": "rachel.moran@baycare.org",
+      "phone": "(813) 555-0529",
+      "role": "recruiter",
+      "formality": "formal",
+      "is_organization": false,
+      "knows": [
+        "Eric is a licensed physical therapist exploring new opportunities"
+      ],
+      "does_not_know": [
+        "Details about Eric's personal life or financial situation"
+      ]
+    },
+    {
+      "name": "Dr. Amara Patel",
+      "age": null,
+      "email": null,
+      "phone": "(407) 555-0612",
+      "role": "pcp",
+      "formality": "formal",
+      "is_organization": false,
+      "knows": [
+        "Eric's physical health history",
+        "Obesity and BMI status"
+      ],
+      "does_not_know": [
+        "Full extent of social anxiety coping patterns",
+        "Late-night stress cycling behavior"
+      ]
+    },
+    {
+      "name": "Banfield Pet Hospital",
+      "age": null,
+      "email": null,
+      "phone": null,
+      "role": "veterinarian",
+      "formality": "formal",
+      "is_organization": true,
+      "knows": [
+        "Biscuit's vaccination and health records"
+      ],
+      "does_not_know": []
+    },
+    {
+      "name": "Orlando Community Garden Committee",
+      "age": null,
+      "email": "garden@orlandocommunitygardens.org",
+      "phone": null,
+      "role": "volunteer-organization",
+      "formality": "casual-professional",
+      "is_organization": true,
+      "knows": [
+        "Eric is a committee volunteer and organizer"
+      ],
+      "does_not_know": [
+        "Eric does committee work during clinic hours",
+        "Eric has social anxiety about meetings"
+      ]
+    }
+  ],
+  "financial": {
+    "accounts": [
+      {
+        "type": "checking",
+        "institution": "Suncoast Credit Union",
+        "last_four": "4471",
+        "balance": 2800
+      },
+      {
+        "type": "savings",
+        "institution": "Suncoast Credit Union",
+        "last_four": "4472",
+        "balance": 1200
+      },
+      {
+        "type": "credit_card",
+        "institution": "Chase Freedom",
+        "last_four": "8293",
+        "balance": -8500
+      },
+      {
+        "type": "loan",
+        "institution": "FedLoan Servicing",
+        "last_four": "6610",
+        "balance": -47000
+      },
+      {
+        "type": "retirement",
+        "institution": "Fidelity",
+        "last_four": "3387",
+        "balance": 35000
+      }
+    ],
+    "recurring_expenses": [
+      {
+        "name": "Mortgage",
+        "amount": 1800,
+        "day": 1,
+        "account": "4471",
+        "category": "housing"
+      },
+      {
+        "name": "Tesla payment",
+        "amount": 548,
+        "day": 12,
+        "account": "4471",
+        "category": "transportation"
+      },
+      {
+        "name": "Auto insurance",
+        "amount": 182,
+        "day": 15,
+        "account": "8293",
+        "category": "insurance"
+      },
+      {
+        "name": "Student loan payment",
+        "amount": 400,
+        "day": 20,
+        "account": "4471",
+        "category": "education"
+      },
+      {
+        "name": "Medical debt payment",
+        "amount": 150,
+        "day": 5,
+        "account": "4471",
+        "category": "health"
+      },
+      {
+        "name": "Utilities (Duke Energy)",
+        "amount": 195,
+        "day": 18,
+        "account": "4471",
+        "category": "utilities"
+      },
+      {
+        "name": "Internet (Spectrum)",
+        "amount": 80,
+        "day": 22,
+        "account": "8293",
+        "category": "utilities"
+      },
+      {
+        "name": "Phone (T-Mobile, family)",
+        "amount": 125,
+        "day": 8,
+        "account": "8293",
+        "category": "utilities"
+      },
+      {
+        "name": "Jaylen travel soccer",
+        "amount": 185,
+        "day": 1,
+        "account": "4471",
+        "category": "childcare"
+      }
+    ],
+    "recurring_income": [
+      {
+        "name": "Lakeview PT paycheck (1st half)",
+        "amount": 2600,
+        "day": 1,
+        "source": "Lakeview Physical Therapy & Rehabilitation",
+        "account": "4471"
+      },
+      {
+        "name": "Lakeview PT paycheck (2nd half)",
+        "amount": 2600,
+        "day": 15,
+        "source": "Lakeview Physical Therapy & Rehabilitation",
+        "account": "4471"
+      }
+    ],
+    "subscriptions": [
+      {
+        "name": "Netflix",
+        "amount": 15.49,
+        "day": 10
+      },
+      {
+        "name": "YouTube Premium",
+        "amount": 13.99,
+        "day": 7
+      },
+      {
+        "name": "Strava Premium",
+        "amount": 11.99,
+        "day": 3
+      },
+      {
+        "name": "ESPN+",
+        "amount": 10.99,
+        "day": 14
+      },
+      {
+        "name": "Apple One Family",
+        "amount": 22.95,
+        "day": 19
+      }
+    ],
+    "variable_spending": {
+      "groceries": {
+        "weekly_avg": 150,
+        "stores": [
+          "Publix",
+          "Aldi",
+          "Walmart Supercenter"
+        ]
+      },
+      "dining": {
+        "monthly_avg": 150
+      },
+      "gas": {
+        "monthly_avg": 60
+      },
+      "coffee": {
+        "monthly_avg": 80
+      }
+    }
+  },
+  "schedule": {
+    "standups": {
+      "days": [
+        "mon",
+        "wed",
+        "fri"
+      ],
+      "time": "08:15",
+      "location": "break room",
+      "attendees": [
+        "Denise Okafor"
+      ]
+    },
+    "one_on_ones": {
+      "frequency": "biweekly",
+      "day": "tue",
+      "time": "16:00",
+      "with": "Denise Okafor"
+    },
+    "health_appointments": [
+      {
+        "type": "pcp",
+        "frequency": "annual",
+        "day_approx": 4,
+        "provider": "Dr. Amara Patel",
+        "location": "Orlando Health Physician Associates"
+      }
+    ],
+    "pharmacy_refills": [],
+    "fitness": {
+      "type": "Ride",
+      "normal_time": "17:30",
+      "days_per_week": 2.5,
+      "normal_distance_range_m": [
+        8000,
+        13000
+      ],
+      "normal_hr_range": [
+        115,
+        150
+      ],
+      "anomalous_time": "21:30",
+      "anomalous_hr_range": [
+        130,
+        170
+      ]
+    },
+    "custody": {
+      "arrangement": null,
+      "handoff_day": null,
+      "handoff_time": null,
+      "child_name": null,
+      "child_school": null,
+      "school_pickup_time": null
+    }
+  },
+  "storylines": [
+    {
+      "id": 1,
+      "title": "The Magic Ticket Trail",
+      "date_range": [
+        "2025-11-01",
+        "2026-04-30"
+      ],
+      "tensions": [
+        1,
+        3
+      ],
+      "servers": [
+        "ticketmaster",
+        "email",
+        "messaging",
+        "calendar"
+      ],
+      "beats": [
+        {
+          "date": "2025-11-14",
+          "time": "19:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_trevor"
+          ],
+          "note": "Trevor texts 'yo u coming saturday??' about upcoming Magic game"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "10:30",
+          "server": "ticketmaster",
+          "type": "transaction",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Eric purchases two Magic tickets ($85 each)"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "10:32",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Ticketmaster order confirmation email arrives"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "17:45",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Eric tells Vanessa 'Trevor had an extra ticket' \u2014 contradicts the $85 purchase"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "11:15",
+          "server": "ticketmaster",
+          "type": "transaction",
+          "participants": [
+            "p_eric",
+            "p_trevor"
+          ],
+          "note": "Two Magic tickets purchased ($95 each), ticket transfer to Trevor"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "11:17",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Ticketmaster confirmation for December Magic game"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "09:45",
+          "server": "ticketmaster",
+          "type": "transaction",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Solo Magic ticket purchase ($75)"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "18:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Eric tells Vanessa 'work appreciation thing tonight, free tickets'"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "14:00",
+          "server": "ticketmaster",
+          "type": "transaction",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Two Magic tickets ($110 each) for weekend game"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "20:30",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_trevor"
+          ],
+          "note": "Trevor texts 'bro this game is gonna be insane \ud83d\udd25\ud83d\udd25'"
+        },
+        {
+          "date": "2026-03-15",
+          "time": "12:00",
+          "server": "ticketmaster",
+          "type": "transaction",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Magic tickets ($90) \u2014 deliberately omitted from shared calendar"
+        },
+        {
+          "date": "2026-04-04",
+          "time": "10:00",
+          "server": "ticketmaster",
+          "type": "transaction",
+          "participants": [
+            "p_eric",
+            "p_trevor"
+          ],
+          "note": "Late-season Magic tickets ($100 each), text-coordinated with Trevor"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Community Garden Gauntlet",
+      "date_range": [
+        "2026-01-05",
+        "2026-04-30"
+      ],
+      "tensions": [
+        2,
+        4
+      ],
+      "servers": [
+        "airtable",
+        "calendar",
+        "email",
+        "messaging",
+        "apple_health",
+        "strava",
+        "reminder"
+      ],
+      "beats": [
+        {
+          "date": "2026-01-22",
+          "time": "09:15",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "garden@orlandocommunitygardens.org"
+          ],
+          "note": "Committee thread sent during clinic hours \u2014 volunteer assignments for spring"
+        },
+        {
+          "date": "2026-01-22",
+          "time": "09:40",
+          "server": "airtable",
+          "type": "event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Committee volunteer tracking sheet updated during clinic hours"
+        },
+        {
+          "date": "2026-02-12",
+          "time": "14:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_trevor"
+          ],
+          "note": "Community garden meeting \u2014 Eric attends"
+        },
+        {
+          "date": "2026-02-12",
+          "time": "14:15",
+          "server": "apple_health",
+          "type": "activity",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Heart rate spike to 122 bpm resting during garden meeting"
+        },
+        {
+          "date": "2026-02-12",
+          "time": "21:45",
+          "server": "strava",
+          "type": "activity",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Late-night stress cycling \u2014 9.2 miles, elevated HR, Econlockhatchee Trail"
+        },
+        {
+          "date": "2026-02-13",
+          "time": "07:30",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Self-care reminder: 'Breathing exercises \u2014 you're fine'"
+        },
+        {
+          "date": "2026-03-05",
+          "time": "13:45",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_trevor"
+          ],
+          "note": "Trevor pushes Eric to attend meeting: 'bro just show up for 20 min \ud83d\udcaa'"
+        },
+        {
+          "date": "2026-03-05",
+          "time": "17:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_trevor"
+          ],
+          "note": "Eric makes excuse: 'might be stuck at the clinic late'"
+        },
+        {
+          "date": "2026-03-05",
+          "time": "17:30",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Garden committee meeting cancelled last-minute by Eric"
+        },
+        {
+          "date": "2026-03-05",
+          "time": "22:00",
+          "server": "strava",
+          "type": "activity",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Late-night stress cycling \u2014 11 miles, anxiety-driven after cancellation"
+        },
+        {
+          "date": "2026-03-06",
+          "time": "07:15",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Self-care reminder: 'You don't have to stay the whole time'"
+        },
+        {
+          "date": "2026-03-26",
+          "time": "10:15",
+          "server": "airtable",
+          "type": "event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Spring event planning spreadsheet updated during work hours \u2014 overlaps with 'Patient Documentation' calendar block"
+        },
+        {
+          "date": "2026-03-26",
+          "time": "10:30",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Patient Documentation' block 9:00\u201311:00 AM on calendar"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Omar's Quarterly Reality Check",
+      "date_range": [
+        "2026-01-01",
+        "2026-04-30"
+      ],
+      "tensions": [
+        3,
+        1
+      ],
+      "servers": [
+        "email",
+        "calendar",
+        "messaging",
+        "reminder"
+      ],
+      "beats": [
+        {
+          "date": "2026-01-08",
+          "time": "09:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_omar"
+          ],
+          "note": "Omar's monthly financial summary \u2014 shows real savings balance (~$1,200)"
+        },
+        {
+          "date": "2026-01-10",
+          "time": "19:30",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Eric texts Vanessa 'we're at about four grand babe, we're okay' \u2014 contradicts Omar's numbers"
+        },
+        {
+          "date": "2026-01-12",
+          "time": "08:00",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Transfer $200 to savings before Friday'"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "08:30",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Review Omar's summary before meeting'"
+        },
+        {
+          "date": "2026-01-15",
+          "time": "10:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_omar"
+          ],
+          "note": "Quarterly financial planning session with Omar \u2014 January check-in"
+        },
+        {
+          "date": "2026-04-01",
+          "time": "09:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_omar"
+          ],
+          "note": "Omar's April financial summary \u2014 savings still around $1,200, recommends cutting discretionary spending"
+        },
+        {
+          "date": "2026-04-03",
+          "time": "20:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Eric reassures Vanessa about savings \u2014 within days of Omar's contradicting figures"
+        },
+        {
+          "date": "2026-04-14",
+          "time": "08:00",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Review Omar's summary before Thursday meeting'"
+        },
+        {
+          "date": "2026-04-16",
+          "time": "10:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_omar"
+          ],
+          "note": "Quarterly financial planning session with Omar \u2014 April check-in"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The LinkedIn Scroll",
+      "date_range": [
+        "2026-02-03",
+        "2026-03-15"
+      ],
+      "tensions": [
+        5
+      ],
+      "servers": [
+        "email",
+        "calendar",
+        "contacts"
+      ],
+      "beats": [
+        {
+          "date": "2026-02-05",
+          "time": "07:30",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "jobs-noreply@linkedin.com"
+          ],
+          "note": "First LinkedIn job alert \u2014 Community Health roles in Central Florida"
+        },
+        {
+          "date": "2026-02-12",
+          "time": "07:30",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "jobs-noreply@linkedin.com"
+          ],
+          "note": "Second weekly LinkedIn job alert"
+        },
+        {
+          "date": "2026-02-18",
+          "time": "14:20",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_rachel"
+          ],
+          "note": "Rachel Moran reaches out about BayCare Community Health Outreach Coordinator position"
+        },
+        {
+          "date": "2026-02-19",
+          "time": "20:00",
+          "server": "contacts",
+          "type": "event",
+          "participants": [
+            "p_rachel"
+          ],
+          "note": "Rachel Moran added to phone \u2014 name and email only, no relationship label"
+        },
+        {
+          "date": "2026-02-25",
+          "time": "12:15",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_rachel"
+          ],
+          "note": "Eric replies cautiously to Rachel \u2014 expresses interest, asks about role details"
+        },
+        {
+          "date": "2026-03-03",
+          "time": "09:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_rachel"
+          ],
+          "note": "Rachel schedules phone screen for March 12 during lunch"
+        },
+        {
+          "date": "2026-03-12",
+          "time": "12:30",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Personal Appointment' \u2014 actually a phone screen with BayCare recruiter"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Jaylen's Travel Soccer Season",
+      "date_range": [
+        "2025-11-01",
+        "2026-03-31"
+      ],
+      "tensions": [],
+      "servers": [
+        "calendar",
+        "email",
+        "messaging"
+      ],
+      "beats": [
+        {
+          "date": "2025-11-08",
+          "time": "10:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Orlando City Youth tournament registration confirmation for November"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "08:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_jaylen"
+          ],
+          "note": "Weekend soccer tournament \u2014 Jaylen's team vs. Tampa Bay United"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "16:30",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Vanessa texts about Saturday pickup from tournament"
+        },
+        {
+          "date": "2026-01-11",
+          "time": "09:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_jaylen"
+          ],
+          "note": "January tournament weekend"
+        },
+        {
+          "date": "2026-02-15",
+          "time": "08:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_jaylen"
+          ],
+          "note": "February tournament \u2014 carpool coordinated via email"
+        },
+        {
+          "date": "2026-02-14",
+          "time": "19:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Coach email with February tournament bracket and logistics"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Fishing Trip Promise",
+      "date_range": [
+        "2026-03-01",
+        "2026-04-30"
+      ],
+      "tensions": [],
+      "servers": [
+        "messaging",
+        "calendar",
+        "reminder"
+      ],
+      "beats": [
+        {
+          "date": "2026-03-05",
+          "time": "20:30",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_joanna"
+          ],
+          "note": "Joanna texts: 'so the kids keep asking about fishing. you free june?'"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "08:00",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Look up fishing charter prices'"
+        },
+        {
+          "date": "2026-03-15",
+          "time": "19:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Tentative: 'Fishing \u2014 Jo's kids?' added to calendar"
+        },
+        {
+          "date": "2026-04-02",
+          "time": "21:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_joanna"
+          ],
+          "note": "Eric replies: 'let me check the schedule' \u2014 still half-committing"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "18:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Fishing \u2014 Jo's kids?' moved from March to June, tentative"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Board Game Nights",
+      "date_range": [
+        "2025-12-01",
+        "2026-02-21"
+      ],
+      "tensions": [],
+      "servers": [
+        "messaging",
+        "email",
+        "calendar"
+      ],
+      "beats": [
+        {
+          "date": "2025-12-01",
+          "time": "19:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Group text with neighbors about December board game night date and RSVPs"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "12:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Amazon order confirmation for new board game and party supplies"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "18:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa"
+          ],
+          "note": "Board Game Night \u2014 December hosting"
+        },
+        {
+          "date": "2026-02-10",
+          "time": "20:30",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Vanessa texts: 'do we really need to host again this soon'"
+        },
+        {
+          "date": "2026-02-15",
+          "time": "18:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Group text with neighbors for February game night RSVPs"
+        },
+        {
+          "date": "2026-02-21",
+          "time": "18:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa"
+          ],
+          "note": "Board Game Night \u2014 February hosting"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Maya's School Musical",
+      "date_range": [
+        "2026-02-01",
+        "2026-03-08"
+      ],
+      "tensions": [],
+      "servers": [
+        "calendar",
+        "email",
+        "messaging"
+      ],
+      "beats": [
+        {
+          "date": "2026-02-03",
+          "time": "15:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Timber Creek Elementary parent email \u2014 musical rehearsal schedule and costume needs"
+        },
+        {
+          "date": "2026-02-05",
+          "time": "19:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_maya"
+          ],
+          "note": "Weekly rehearsal schedule added through March \u2014 Wednesdays 3:30 PM"
+        },
+        {
+          "date": "2026-03-01",
+          "time": "17:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Eric and Vanessa coordinate daily pickup logistics for final rehearsal week"
+        },
+        {
+          "date": "2026-03-07",
+          "time": "19:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa",
+            "p_maya"
+          ],
+          "note": "Maya's Musical \u2014 Opening Night at Timber Creek Elementary"
+        },
+        {
+          "date": "2026-03-08",
+          "time": "14:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa",
+            "p_maya"
+          ],
+          "note": "Maya's Musical \u2014 Saturday Matinee"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Biscuit's Vet Visit",
+      "date_range": [
+        "2026-01-15",
+        "2026-01-23"
+      ],
+      "tensions": [],
+      "servers": [
+        "calendar",
+        "email",
+        "reminder"
+      ],
+      "beats": [
+        {
+          "date": "2026-01-15",
+          "time": "10:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Banfield Pet Hospital appointment confirmation \u2014 annual vaccinations for Biscuit"
+        },
+        {
+          "date": "2026-01-22",
+          "time": "20:00",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Biscuit vet \u2014 Thursday 10 AM, bring carrier'"
+        },
+        {
+          "date": "2026-01-23",
+          "time": "10:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Biscuit \u2014 Vet (Banfield) \u2014 bill quietly put on credit card \u00d78293"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Holiday Season Wind-Down",
+      "date_range": [
+        "2025-11-01",
+        "2025-12-25"
+      ],
+      "tensions": [],
+      "servers": [
+        "airtable",
+        "email",
+        "calendar",
+        "ticketmaster"
+      ],
+      "beats": [
+        {
+          "date": "2025-11-10",
+          "time": "21:00",
+          "server": "airtable",
+          "type": "event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Personal gift tracker created \u2014 names, ideas, amounts (real spending visible here)"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "09:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa",
+            "p_jaylen",
+            "p_maya"
+          ],
+          "note": "Thanksgiving \u2014 Vanessa's family"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "20:00",
+          "server": "ticketmaster",
+          "type": "transaction",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Concert ticket purchased as birthday gift for Vanessa \u2014 charged to credit card"
+        },
+        {
+          "date": "2025-12-08",
+          "time": "14:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Amazon holiday gift order confirmations \u2014 multiple shipping notifications"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "15:30",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_jaylen",
+            "p_maya"
+          ],
+          "note": "School winter break starts"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "08:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa",
+            "p_jaylen",
+            "p_maya"
+          ],
+          "note": "Christmas Day \u2014 at home with kids"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Tax Season Scramble",
+      "date_range": [
+        "2026-02-01",
+        "2026-04-15"
+      ],
+      "tensions": [],
+      "servers": [
+        "email",
+        "calendar",
+        "reminder"
+      ],
+      "beats": [
+        {
+          "date": "2026-02-01",
+          "time": "08:00",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Start gathering W-2 and 1099 forms'"
+        },
+        {
+          "date": "2026-02-20",
+          "time": "10:15",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "TurboTax marketing email about filing early for fastest refund"
+        },
+        {
+          "date": "2026-03-08",
+          "time": "10:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Tax prep \u2014 organize documents' blocked on Saturday morning"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "09:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "TurboTax e-file confirmation \u2014 federal and state returns accepted"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Tesla Service Day",
+      "date_range": [
+        "2026-01-06",
+        "2026-01-14"
+      ],
+      "tensions": [],
+      "servers": [
+        "email",
+        "calendar",
+        "messaging"
+      ],
+      "beats": [
+        {
+          "date": "2026-01-06",
+          "time": "14:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Tesla Service Center appointment confirmation \u2014 tire rotation and inspection"
+        },
+        {
+          "date": "2026-01-13",
+          "time": "07:30",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Eric texts Vanessa: 'dropping off the car for service, can you handle school dropoff?'"
+        },
+        {
+          "date": "2026-01-13",
+          "time": "09:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Tesla Service \u2014 Tire Rotation'"
+        },
+        {
+          "date": "2026-01-14",
+          "time": "10:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Tesla service complete notification \u2014 pickup ready"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Dr. Patel Annual Physical",
+      "date_range": [
+        "2026-03-01",
+        "2026-03-14"
+      ],
+      "tensions": [],
+      "servers": [
+        "email",
+        "calendar",
+        "reminder",
+        "apple_health"
+      ],
+      "beats": [
+        {
+          "date": "2026-03-01",
+          "time": "09:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Orlando Health appointment reminder for annual physical"
+        },
+        {
+          "date": "2026-03-03",
+          "time": "07:00",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Fast after midnight for bloodwork'"
+        },
+        {
+          "date": "2026-03-04",
+          "time": "08:30",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Dr. Patel \u2014 Annual Physical'"
+        },
+        {
+          "date": "2026-03-10",
+          "time": "14:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "MyChart notification \u2014 lab results available"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Vanessa's Birthday Weekend",
+      "date_range": [
+        "2026-01-15",
+        "2026-01-20"
+      ],
+      "tensions": [],
+      "servers": [
+        "messaging",
+        "calendar",
+        "email"
+      ],
+      "beats": [
+        {
+          "date": "2026-01-15",
+          "time": "12:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_joanna"
+          ],
+          "note": "Eric texts Joanna about birthday dinner plans for Vanessa"
+        },
+        {
+          "date": "2026-01-16",
+          "time": "19:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "OpenTable reservation confirmation for Bonefish Grill"
+        },
+        {
+          "date": "2026-01-18",
+          "time": "18:30",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa"
+          ],
+          "note": "'Vanessa's Birthday Dinner \u2014 Bonefish Grill'"
+        },
+        {
+          "date": "2026-01-19",
+          "time": "09:30",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Vanessa texts: 'last night was perfect babe \u2764\ufe0f'"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Spring Yard Cleanup",
+      "date_range": [
+        "2026-03-14",
+        "2026-03-22"
+      ],
+      "tensions": [],
+      "servers": [
+        "email",
+        "calendar",
+        "messaging"
+      ],
+      "beats": [
+        {
+          "date": "2026-03-14",
+          "time": "20:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Home Depot order confirmation \u2014 mulch, fertilizer, landscaping supplies"
+        },
+        {
+          "date": "2026-03-15",
+          "time": "08:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Yard work \u2014 mulching and flower beds'"
+        },
+        {
+          "date": "2026-03-16",
+          "time": "11:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Eric texts Vanessa a photo of the finished garden bed"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Timber Creek Neighborhood Cookout",
+      "date_range": [
+        "2026-04-05",
+        "2026-04-12"
+      ],
+      "tensions": [],
+      "servers": [
+        "messaging",
+        "calendar",
+        "email"
+      ],
+      "beats": [
+        {
+          "date": "2026-04-05",
+          "time": "18:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Neighbor group chat planning spring cookout \u2014 dates and food assignments"
+        },
+        {
+          "date": "2026-04-08",
+          "time": "10:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "HOA newsletter with neighborhood spring event details"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "15:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Vanessa texts: 'should I make the pasta salad again?'"
+        },
+        {
+          "date": "2026-04-12",
+          "time": "16:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric",
+            "p_vanessa"
+          ],
+          "note": "'Neighborhood Spring Cookout \u2014 4 PM'"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Strava Year-in-Review",
+      "date_range": [
+        "2025-12-27",
+        "2025-12-30"
+      ],
+      "tensions": [
+        2
+      ],
+      "servers": [
+        "email",
+        "strava",
+        "apple_health"
+      ],
+      "beats": [
+        {
+          "date": "2025-12-27",
+          "time": "09:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Strava year-in-review email \u2014 includes total rides, average times (late-night pattern visible)"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "09:00",
+          "server": "strava",
+          "type": "activity",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Annual summary generated \u2014 ride timestamps and HR data expose 9:30-11 PM anxiety cycling pattern"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "08:00",
+          "server": "apple_health",
+          "type": "activity",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Weekly health summary \u2014 nighttime heart rate elevations (100-130 bpm) on ride nights"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Savings Account Low Balance Alert",
+      "date_range": [
+        "2026-02-01",
+        "2026-02-06"
+      ],
+      "tensions": [
+        3
+      ],
+      "servers": [
+        "email",
+        "messaging",
+        "reminder"
+      ],
+      "beats": [
+        {
+          "date": "2026-02-01",
+          "time": "08:15",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Suncoast Credit Union low balance alert on savings \u00d74472 \u2014 balance dropped below $1,100"
+        },
+        {
+          "date": "2026-02-01",
+          "time": "12:00",
+          "server": "reminder",
+          "type": "queue",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Transfer $200 to savings before Vanessa checks the app'"
+        },
+        {
+          "date": "2026-02-03",
+          "time": "19:30",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Suncoast CU transfer confirmation \u2014 $200 moved from checking to savings"
+        },
+        {
+          "date": "2026-02-05",
+          "time": "20:15",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Vanessa texts: 'hey did you check on the savings this month?' \u2014 Eric deflects"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Airtable Audit Overlap",
+      "date_range": [
+        "2026-03-17",
+        "2026-03-20"
+      ],
+      "tensions": [
+        4
+      ],
+      "servers": [
+        "airtable",
+        "email",
+        "calendar"
+      ],
+      "beats": [
+        {
+          "date": "2026-03-17",
+          "time": "14:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "'Patient Documentation' block 2:00\u20134:00 PM"
+        },
+        {
+          "date": "2026-03-17",
+          "time": "14:25",
+          "server": "airtable",
+          "type": "event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Garden committee spring event spreadsheet edited at 2:25 PM \u2014 during 'Patient Documentation' block"
+        },
+        {
+          "date": "2026-03-18",
+          "time": "09:30",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "garden@orlandocommunitygardens.org"
+          ],
+          "note": "Committee reply sent during clinic morning hours"
+        },
+        {
+          "date": "2026-03-19",
+          "time": "11:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_denise"
+          ],
+          "note": "Denise emails team: upcoming Airtable workflow audit next month \u2014 usage logs will be reviewed"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Summer Planning Cost Pressure",
+      "date_range": [
+        "2026-04-05",
+        "2026-04-12"
+      ],
+      "tensions": [
+        1,
+        3
+      ],
+      "servers": [
+        "messaging",
+        "calendar",
+        "email"
+      ],
+      "beats": [
+        {
+          "date": "2026-04-05",
+          "time": "19:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_joanna",
+            "p_vanessa"
+          ],
+          "note": "Joanna sends fishing charter link in family group chat \u2014 $350/person"
+        },
+        {
+          "date": "2026-04-06",
+          "time": "12:00",
+          "server": "messaging",
+          "type": "conversation",
+          "participants": [
+            "p_vanessa"
+          ],
+          "note": "Vanessa replies in group: 'that sounds fun! we should do it' \u2014 financial pressure on Eric"
+        },
+        {
+          "date": "2026-04-08",
+          "time": "22:00",
+          "server": "email",
+          "type": "email",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Eric privately searches and receives charter pricing email \u2014 $350-500 per person"
+        },
+        {
+          "date": "2026-04-10",
+          "time": "20:00",
+          "server": "calendar",
+          "type": "calendar_event",
+          "participants": [
+            "p_eric"
+          ],
+          "note": "Eric adds tentative 'Check fishing budget' event \u2014 never shares result"
+        }
+      ]
+    }
+  ],
+  "vocabulary": {
+    "fintrack": {
+      "grocery_stores": [
+        "Publix - Avalon Park",
+        "Aldi - East Colonial",
+        "Walmart Supercenter - Waterford Lakes",
+        "Winn-Dixie - Timber Creek",
+        "Target - Waterford Lakes",
+        "Whole Foods Market - Winter Park"
+      ],
+      "gas_stations": [
+        "Tesla Supercharger - Waterford Lakes",
+        "Tesla Supercharger - Orlando Gateway",
+        "ChargePoint - Avalon Park"
+      ],
+      "coffee_shops": [
+        "Foxtail Coffee Co. - East Orlando",
+        "Foxtail Coffee Co. - Hourglass District",
+        "Lineage Coffee Roasting",
+        "Starbucks - Waterford Lakes"
+      ],
+      "restaurants": [
+        "Lazy Moon Pizza",
+        "Bonefish Grill - Waterford Lakes",
+        "4 Rivers Smokehouse - Winter Park",
+        "Tijuana Flats - Avalon Park",
+        "Hawkers Asian Street Food - Mills 50",
+        "Outback Steakhouse - Waterford Lakes",
+        "Cheddar's Scratch Kitchen - East Colonial",
+        "Chili's Grill & Bar - Waterford Lakes"
+      ],
+      "pharmacies": [
+        "CVS Pharmacy - Avalon Park",
+        "Walgreens - Waterford Lakes"
+      ]
+    },
+    "strava": {
+      "route_names": [
+        "Morning loop - Blanchard Park",
+        "Econlockhatchee Trail out-and-back",
+        "Avalon Park neighborhood circuit",
+        "Lake Underhill Park loop",
+        "Cady Way Trail - Colonial to Fashion Square",
+        "Innovation Way bike path"
+      ],
+      "weekend_routes": [
+        "West Orange Trail - Winter Garden",
+        "Seminole Wekiva Trail to Springs",
+        "Little Econ Greenway - full"
+      ]
+    },
+    "sonos": {
+      "playlists": {
+        "Chill Evening": [
+          {
+            "title": "Redbone",
+            "artist": "Childish Gambino",
+            "album": "Awaken, My Love!",
+            "duration_seconds": 327
+          },
+          {
+            "title": "Best Part",
+            "artist": "Daniel Caesar feat. H.E.R.",
+            "album": "Freudian",
+            "duration_seconds": 207
+          },
+          {
+            "title": "Location",
+            "artist": "Khalid",
+            "album": "American Teen",
+            "duration_seconds": 220
+          },
+          {
+            "title": "Electric Feel",
+            "artist": "MGMT",
+            "album": "Oracular Spectacular",
+            "duration_seconds": 228
+          },
+          {
+            "title": "Heat Waves",
+            "artist": "Glass Animals",
+            "album": "Dreamland",
+            "duration_seconds": 238
+          },
+          {
+            "title": "Ivy",
+            "artist": "Frank Ocean",
+            "album": "Blonde",
+            "duration_seconds": 249
+          },
+          {
+            "title": "Pink + White",
+            "artist": "Frank Ocean",
+            "album": "Blonde",
+            "duration_seconds": 183
+          }
+        ],
+        "Game Day Hype": [
+          {
+            "title": "Stronger",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "duration_seconds": 312
+          },
+          {
+            "title": "All I Do Is Win",
+            "artist": "DJ Khaled feat. T-Pain",
+            "album": "Victory",
+            "duration_seconds": 228
+          },
+          {
+            "title": "Lose Yourself",
+            "artist": "Eminem",
+            "album": "8 Mile Soundtrack",
+            "duration_seconds": 326
+          },
+          {
+            "title": "Can't Hold Us",
+            "artist": "Macklemore & Ryan Lewis",
+            "album": "The Heist",
+            "duration_seconds": 258
+          },
+          {
+            "title": "Jump Around",
+            "artist": "House of Pain",
+            "album": "House of Pain",
+            "duration_seconds": 217
+          },
+          {
+            "title": "HUMBLE.",
+            "artist": "Kendrick Lamar",
+            "album": "DAMN.",
+            "duration_seconds": 177
+          },
+          {
+            "title": "Power",
+            "artist": "Kanye West",
+            "album": "My Beautiful Dark Twisted Fantasy",
+            "duration_seconds": 292
+          }
+        ],
+        "Sunday Cooking": [
+          {
+            "title": "Lovely Day",
+            "artist": "Bill Withers",
+            "album": "Menagerie",
+            "duration_seconds": 252
+          },
+          {
+            "title": "September",
+            "artist": "Earth, Wind & Fire",
+            "album": "The Best of Earth, Wind & Fire, Vol. 1",
+            "duration_seconds": 215
+          },
+          {
+            "title": "Superstition",
+            "artist": "Stevie Wonder",
+            "album": "Talking Book",
+            "duration_seconds": 245
+          },
+          {
+            "title": "Could You Be Loved",
+            "artist": "Bob Marley & The Wailers",
+            "album": "Uprising",
+            "duration_seconds": 236
+          },
+          {
+            "title": "I Wish",
+            "artist": "Stevie Wonder",
+            "album": "Songs in the Key of Life",
+            "duration_seconds": 254
+          },
+          {
+            "title": "Ain't No Mountain High Enough",
+            "artist": "Marvin Gaye & Tammi Terrell",
+            "album": "United",
+            "duration_seconds": 151
+          }
+        ],
+        "Kids Car Ride": [
+          {
+            "title": "Happy",
+            "artist": "Pharrell Williams",
+            "album": "G I R L",
+            "duration_seconds": 233
+          },
+          {
+            "title": "Shake It Off",
+            "artist": "Taylor Swift",
+            "album": "1989",
+            "duration_seconds": 219
+          },
+          {
+            "title": "Can't Stop the Feeling!",
+            "artist": "Justin Timberlake",
+            "album": "Trolls: Original Motion Picture Soundtrack",
+            "duration_seconds": 236
+          },
+          {
+            "title": "Uptown Funk",
+            "artist": "Mark Ronson feat. Bruno Mars",
+            "album": "Uptown Special",
+            "duration_seconds": 270
+          },
+          {
+            "title": "Don't Stop Me Now",
+            "artist": "Queen",
+            "album": "Jazz",
+            "duration_seconds": 209
+          },
+          {
+            "title": "Dynamite",
+            "artist": "BTS",
+            "album": "Dynamite",
+            "duration_seconds": 199
+          }
+        ],
+        "Late Night Ride": [
+          {
+            "title": "Midnight City",
+            "artist": "M83",
+            "album": "Hurry Up, We're Dreaming",
+            "duration_seconds": 244
+          },
+          {
+            "title": "Nightcall",
+            "artist": "Kavinsky",
+            "album": "OutRun",
+            "duration_seconds": 257
+          },
+          {
+            "title": "A Real Hero",
+            "artist": "College & Electric Youth",
+            "album": "Drive: Original Motion Picture Soundtrack",
+            "duration_seconds": 285
+          },
+          {
+            "title": "Starboy",
+            "artist": "The Weeknd feat. Daft Punk",
+            "album": "Starboy",
+            "duration_seconds": 230
+          },
+          {
+            "title": "The Less I Know the Better",
+            "artist": "Tame Impala",
+            "album": "Currents",
+            "duration_seconds": 218
+          },
+          {
+            "title": "Retrograde",
+            "artist": "James Blake",
+            "album": "Overgrown",
+            "duration_seconds": 234
+          },
+          {
+            "title": "Intro",
+            "artist": "The xx",
+            "album": "xx",
+            "duration_seconds": 128
+          }
+        ]
+      }
+    },
+    "calendar": {
+      "recurring_titles": {
+        "standup": "Team Standup",
+        "one_on_one": "1:1 with Denise",
+        "pcp": "Dr. Patel",
+        "bloodwork": "Bloodwork - Orlando Health",
+        "financial_check_in": "Financial Planning - Omar",
+        "soccer_practice": "Jaylen - Practice",
+        "soccer_tournament": "Jaylen - Tournament",
+        "garden_meeting": "Garden Committee Meeting",
+        "patient_documentation": "Patient Documentation"
+      }
+    },
+    "email": {
+      "marketing_senders": [
+        {
+          "sender": "alerts@suncoastcu.com",
+          "type": "bank_alert"
+        },
+        {
+          "sender": "alerts@chase.com",
+          "type": "bank_alert"
+        },
+        {
+          "sender": "no-reply@strava.com",
+          "type": "fitness_summary"
+        },
+        {
+          "sender": "updates@espnplus.com",
+          "type": "news"
+        },
+        {
+          "sender": "info@netflix.com",
+          "type": "news"
+        },
+        {
+          "sender": "service@tesla.com",
+          "type": "shipping"
+        },
+        {
+          "sender": "weeklyad@publix.com",
+          "type": "retail"
+        },
+        {
+          "sender": "shipment-tracking@amazon.com",
+          "type": "shipping"
+        },
+        {
+          "sender": "jobs-noreply@linkedin.com",
+          "type": "news"
+        },
+        {
+          "sender": "newsletter@orlandomagic.com",
+          "type": "news"
+        },
+        {
+          "sender": "noreply@tiktok.com",
+          "type": "news"
+        },
+        {
+          "sender": "noreply@apple.com",
+          "type": "retail"
+        }
+      ]
+    },
+    "messaging": {
+      "stale_contacts": [
+        {
+          "name": "Marcus Webb",
+          "id": "p_marcus",
+          "last_topic": "College reunion planning \u2014 never happened"
+        },
+        {
+          "name": "Dave Kowalski",
+          "id": "p_dave",
+          "last_topic": "Handyman quote for bathroom caulking"
+        },
+        {
+          "name": "Priya Rao",
+          "id": "p_priya",
+          "last_topic": "Jaylen's old soccer carpool last spring"
+        },
+        {
+          "name": "Nick Ferraro",
+          "id": "p_nick",
+          "last_topic": "Sold him a bookshelf on Facebook Marketplace"
+        },
+        {
+          "name": "Tasha Owens",
+          "id": "p_tasha",
+          "last_topic": "Neighborhood watch concern about a package theft"
+        }
+      ],
+      "group_chats": [
+        {
+          "name": "Soccer Parents \ud83c\udfc6",
+          "participants": [
+            "Eric Harris",
+            "Vanessa Crane",
+            "Amy Chen",
+            "Carlos Gutierrez",
+            "Lisa Pham"
+          ],
+          "topic": "Orlando City Youth travel soccer logistics and carpooling"
+        },
+        {
+          "name": "Lakeview Team",
+          "participants": [
+            "Eric Harris",
+            "Denise Okafor",
+            "Megan Torres",
+            "James Whitfield"
+          ],
+          "topic": "Clinic schedule swaps, patient coverage, team updates"
+        },
+        {
+          "name": "Timber Creek Neighbors",
+          "participants": [
+            "Eric Harris",
+            "Vanessa Crane",
+            "Rob Hensley",
+            "Dana Kim",
+            "Pete Alvarez"
+          ],
+          "topic": "Neighborhood events, block party planning, HOA announcements"
+        },
+        {
+          "name": "Harris Fam",
+          "participants": [
+            "Eric Harris",
+            "Vanessa Crane",
+            "Joanna Pruitt"
+          ],
+          "topic": "Family logistics, kids updates, holiday planning"
+        }
+      ]
+    }
+  },
+  "servers": [
+    "airtable",
+    "apple_health",
+    "calendar",
+    "contacts",
+    "email",
+    "fintrack",
+    "messaging",
+    "reminder",
+    "sonos",
+    "strava",
+    "ticketmaster"
+  ],
+  "date_range": [
+    "2025-11-01",
+    "2026-06-30"
+  ],
+  "meta": {
+    "timestamp_convention": "utc-canonical",
+    "timestamp_migrated_at": "20260511T222521Z"
+  }
+}
